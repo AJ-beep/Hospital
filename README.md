@@ -1,0 +1,1 @@
+The file contains a project designed to clone a database utilized in an hospital. The patient gets to register snd is assigned an Id. The doctor has access to the database and can view patient history, give prescription and commit other changes to the database 
